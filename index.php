@@ -4,8 +4,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
-    <title>Helper19 - Compartilhando ajuda em tempos de Crise!</title>
-    <link rel="icon" href="./imghome/Care.png" sizes="32x32">
+    <title>Imobiliaria AJAX - Demonstração de Pesquisa AJAX</title>
+    <link rel="icon" href="" sizes="32x32">
     <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
