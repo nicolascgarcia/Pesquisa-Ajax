@@ -16,7 +16,7 @@ function thumb($dir, $num) {
     if ($result->num_rows >= 0) {
         while ($row = $result->fetch_array()) {
             echo '
-            <div class="col m12">
+            <div class="col m6">
                             <div class="card">
                                 <div class="card-image">
                                     <img src="img/imoveis/'.$row["fotodir"].'/1.jpg" style="height: 40vh; width: 100%">
