@@ -74,13 +74,12 @@
                     <div class="col s1 m3"></div>
                     <div class="input-field col s10 m6 input-pesquisa">
                         <input id="cidadesearch" type="text" class="validate" onkeyup="pesquisacidade()">
-                        <label class="active" id="labelcidade" for="cidadesearch">Digite o que precisa buscar</label>
+                        <label class="active" id="labelcidade" for="cidadesearch">Digite a cidade ou valor que deseje</label>
                     </div>
                 </div>
                 <div id="container">
-                    <!-- card de empresa que virá com AJAX -->
                     <div class="row">
-                        <div id="cardsimoveis" class="col m6"></div>
+                        <div id="cardsimoveis"></div>
                     </div>
                 </div>
             </div>
