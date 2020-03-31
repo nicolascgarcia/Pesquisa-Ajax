@@ -1,0 +1,25 @@
+.input-pesquisa {
+    border: solid 1px; 
+    border-color: #adadad; 
+    border-radius: 5px; 
+    border-top: none; 
+    border-right: none;
+}
+
+.tudo-meio {
+    display: flex; 
+    justify-content: center; 
+    align-items: center
+}
+
+.espaco-letra {
+    margin-left: 1vh;
+}
+
+.tamanho-icon {
+    font-size: 40px;
+}
+
+.fomulario {
+    padding-top: 5vh;
+}
